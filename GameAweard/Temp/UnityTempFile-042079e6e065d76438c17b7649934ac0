@@ -337,4 +337,5 @@
 /define:USE_SEARCH_ENGINE_API
 Assets\Scripts\Opponent.cs
 Assets\Scripts\Player.cs
+Assets\Scripts\PlayerMovement.cs
 Assets\Scripts\TurnManager.cs
